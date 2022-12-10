@@ -12,4 +12,8 @@ Doing this challenge in Python and maybe Golang to improve my programming skills
 - Day 2
   - Parts 1 and 2 were pretty straightforward. ord() to convert string to ascii values, dict to simplify the win and lose pattern mappings
 - Day 3
-  -
+  - Abit of list comprehension, use set.intersection() to get intersect between multiple lists
+- Day 4
+  - Part 1 costed alot of time trying to figure out why results were wrong, turned out i was comparing strings instead of integers...
+  - Part 2 was straightfoward
+- Day 5
